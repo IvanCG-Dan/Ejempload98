@@ -1,0 +1,30 @@
+Change Component DesignItemId : Designator=R3 Old DesignItemId=6K8, 100mW_1 New DesignItemId=6K8, 100mW
+Change Component DesignItemId : Designator=P1 Old DesignItemId=HEADER1X188 New DesignItemId=HEADER1X18
+Change Component DesignItemId : Designator=U3 Old DesignItemId=UA78L05ACDR 5V New DesignItemId=Voltage Regulator 5V
+Change Component Comment : Designator=C6 Old Comment=06033A121KAT2A New Comment=120pF, 50V
+Change Component Comment : Designator=C12 Old Comment=06033C105KAT2A New Comment=1uF, 25V
+Change Component Comment : Designator=C16 Old Comment=06033C105KAT2A New Comment=1uF, 25V
+Change Component Comment : Designator=C2 Old Comment=06035A180J4T2A New Comment=18pF, 50V
+Change Component Comment : Designator=C3 Old Comment=06035A180J4T2A New Comment=18pF, 50V
+Change Component Comment : Designator=C4 Old Comment=06035A820KAT2A New Comment=82pF, 50V
+Change Component Comment : Designator=C8 Old Comment=06035A820KAT2A New Comment=82pF, 50V
+Change Component Comment : Designator=P1 Old Comment=68000-236HLF New Comment=HEADER1X18
+Change Component Comment : Designator=Y1 Old Comment=ASV-150.000MHZ-E-C-T New Comment=OSCILATOR
+Change Component Comment : Designator=FB1 Old Comment=B82498F3151G000 New Comment=150nH
+Change Component Comment : Designator=FB4 Old Comment=B82498F3151G000 New Comment=150nH
+Change Component Comment : Designator=FB2 Old Comment=B82498F3331J New Comment=330nH
+Change Component Comment : Designator=FB3 Old Comment=B82498F3331J New Comment=330nH
+Change Component Comment : Designator=C14 Old Comment=C0603X474J4RACTU New Comment=470nF, 16V
+Change Component Comment : Designator=C15 Old Comment=C0603X474J4RACTU New Comment=470nF, 16V
+Change Component Comment : Designator=R3 Old Comment=CRCW06036K80JNEA New Comment=6K8, 100mW
+Change Component Comment : Designator=R5 Old Comment=CRCW0603240RFKEAC New Comment=240R0, 100mW
+Change Component Comment : Designator=R6 Old Comment=CRCW0603390RFKEA New Comment=390R0, 100mW
+Change Component Comment : Designator=C11 Old Comment=GRM188C81C106MA73D New Comment=10uF, 16V
+Change Component Comment : Designator=C13 Old Comment=GRM188C81C106MA73D New Comment=10uF, 16V
+Change Component Comment : Designator=C10 Old Comment=GRM188R72A104KA35J New Comment=100nF, 16V
+Change Component Comment : Designator=C1 Old Comment=GRM1857U1A103JA44D New Comment=10nF, 10V
+Change Component Comment : Designator=U1 Old Comment=LM317EMP New Comment=LM317EMP 3V3
+Change Component Comment : Designator=R4 Old Comment=RC2512FK-7W120RL New Comment=120R0, 2W
+Change Component Comment : Designator=T1 Old Comment=TC1-1T+ New Comment=Transformer
+Change Component Comment : Designator=U3 Old Comment=UA78L05ACDR New Comment=Voltage Regulator 5V
+Added Room: Name=ad9851

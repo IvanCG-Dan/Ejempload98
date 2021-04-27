@@ -1,0 +1,25 @@
+﻿Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~AD9851.PrjPcb|ReportField=ProjectFullPath~C:\Users\cruziv1\Documents\archivos altium\AD9851\AD9851.PrjPcb|ReportField=Title~Bill of Materials For Project [AD9851.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~34|ReportField=ReportTime~04:03:54 p. m.|ReportField=ReportDate~20/10/2020|ReportField=ReportDateTime~20/10/2020 04:03:54 p. m.|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~20/10/2020|ReportField=CurrentTime~12:57:49 p. m.|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\Users\cruziv1\Documents\archivos altium\AD9851\ad9851.SchDoc|ReportField=DocumentName~ad9851.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~Iván Daniel Cruz García|ReportField=ImagePath~|ReportField=ModifiedDate~20/10/2020|ReportField=Organization~|ReportField=ProjectName~AD9851.PrjPcb|ReportField=Proyecto~GENERADOR |ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~1|ReportField=SheetTotal~1|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~AD9851.PrjPcb|ReportField=DataSourceFullPath~C:\Users\cruziv1\Documents\archivos altium\AD9851\AD9851.PrjPcb
+GRM1857U1A103JA44D|Cap_Cer|C1|C0603|10nF, 10V|1
+06035A180J4T2A|Cap_Cer|C2, C3|C0603|18pF, 50V|2
+06035A820KAT2A|Cap_Cer|C4, C8|C0603|82pF, 50V|2
+NBC|Cap_Cer|C5, C7, C9|C0603|NBC|3
+06033A121KAT2A|Cap_Cer|C6|C0603|120pF, 50V|1
+GRM188R72A104KA35J|Cap_Cer|C10|C0603|100nF, 16V|1
+GRM188C81C106MA73D|Cap_Cer|C11, C13|C0603|10uF, 16V|2
+06033C105KAT2A|Cap_Cer|C12, C16|C0603|1uF, 25V|2
+C0603X474J4RACTU|Cap_Cer|C14, C15|C0603|470nF, 16V|2
+B82498F3151G000|Inductor|FB1, FB4|SIMID 0805|150nH|2
+B82498F3331J|Inductor|FB2, FB3|SIMID 0805|330nH|2
+NBI|Inductor|FB5|SIMID 0805|NBI|1
+AD9851|DDS/DAC Synthesizer|J1|TSSOP28|AD9851|1
+68000-236HLF|HEADER|P1|HEAD9-90|HEADER1X188|1
+NB|Resistor|R1, R2|RESC0603|NB|2
+CRCW06036K80JNEA|Resistor|R3|RESC0603|6K8, 100mW_1|1
+RC2512FK-7W120RL|Resistor|R4|RESC2512|120R0, 2W|1
+CRCW0603240RFKEAC|Resistor|R5|RESC0603|240R0, 100mW|1
+CRCW0603390RFKEA|Resistor|R6|RESC0603|390R0, 100mW|1
+TC1-1T+|Signal Transformers|T1|Mini-Circuits_0_MFG|Transformer|1
+LM317EMP|Voltage Regulator|U1|SOT-223-4|LM317EMP 3V3|1
+GALI-4+|AMPLIFIER|U2|SOT-89-3|GALI-4+|1
+UA78L05ACDR|Voltage Regulator|U3|SOIC8|UA78L05ACDR 5V|1
+ASV-150.000MHZ-E-C-T|Crystal Oscillator|Y1|OScilator|OSCILATOR|1
